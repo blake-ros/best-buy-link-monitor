@@ -1,0 +1,24 @@
+{
+  "name": "best-buy-link-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blake-ros/best-buy-link-monitor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blake-ros/best-buy-link-monitor/issues"
+  },
+  "homepage": "https://github.com/blake-ros/best-buy-link-monitor#readme"
+}
