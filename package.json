@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "puppeteer": "^7.1.0"
+    "eslint": "^7.20.0",
+    "puppeteer": "^4.0.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -14,8 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/blake-ros/best-buy-link-monitor.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "blake",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/blake-ros/best-buy-link-monitor/issues"
